@@ -1,5 +1,10 @@
 ### Hi there 👋
+# I'm Luke Pasma
+I'm a Software Developer / Software Development Manager located in the Detroit Metro area of Michigan. Currently trying to justify calling myself a Senior Software Engineer by practicing React and Node.js as much as possible. I've got 9+ years of experience in the Software world, but the recent half of that has been as a Manager. 
 
+# Stats
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Plasma193&count_private=true&show_icons=true&theme=dark)](https://github.com/Plasma193)
+[![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Plasma193&theme=dark&layout=compact&langs_count=10)](https://github.com/Plasma193)
 <!--
 **Plasma193/plasma193** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
