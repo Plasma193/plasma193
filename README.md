@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Luke Pasma
-I'm a Software Development Manager located in the Detroit Metro area of Michigan. I've got 10+ years of experience in the Software world, but the recent half of that has been as a Manager. I love making my teams into the happiest abd best teams they can be. 
+I'm a Software Development Manager located in the Detroit Metro area of Michigan. I've got 10+ years of experience in the Software world, but the recent half of that has been as a Manager. I love making my teams into the happiest and best teams they can be. 
 
 ## Technology I'm using/used
 
