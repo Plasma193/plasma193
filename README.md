@@ -1,6 +1,6 @@
 ### Hi there 👋
 # I'm Luke Pasma
-I'm a Software Developer / Software Development Manager located in the Detroit Metro area of Michigan. Currently trying to justify calling myself a Senior Software Engineer by practicing front end technologies like React and Node.js as much as possible. I've got 9+ years of experience in the Software world, but the recent half of that has been as a Manager. 
+I'm a Software Development Manager located in the Detroit Metro area of Michigan. I've got 10+ years of experience in the Software world, but the recent half of that has been as a Manager. I love making my teams into the happiest abd best teams they can be. 
 
 ## Technology I'm using/used
 
